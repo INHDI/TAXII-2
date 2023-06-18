@@ -1,0 +1,4206 @@
+{
+    "more": true,
+    "next": "WzE2NzcyMzE0ODkxOTgsIjIzNmZjMDdjLTYwZTktNDZlMi1hODIzLTFkMGI1MTMxZGQ0NyIsInVybC0tOTU3ZWE0YjAtMjdmNS01OTViLTliYjQtYWJmOTZiMjlhNjU3Il0=",
+    "objects": [
+        {
+            "id": "url--ca42dee4-2db5-5eee-b033-4c7afc70d435",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "bb82c66d-1995-44b9-a057-0beffa6cbbae",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:12.423Z",
+                    "updated_at": "2023-02-24T09:36:25.351Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "none"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549890/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/16b77d2cc879e0b827f97a4e42bd0698850ed4e7102919fbbdc1a9ebed9d4526"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.194.149.168:53386/mozi.m",
+            "score": 80
+        },
+        {
+            "id": "url--bee1e147-b04b-5061-84f2-f55062ee52c8",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "b89090e2-23b0-4060-8652-4afb7e6373a2",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:16.953Z",
+                    "updated_at": "2023-02-24T09:36:34.577Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "none"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549885/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/3f62d81e0f087b80f0232696a00cfc7f960da31ae1fb3edc78fbded47f914f9f"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://23.155.129.116:42552/mozi.m",
+            "score": 80
+        },
+        {
+            "id": "url--577890f2-461a-57e7-b228-14f9d9e6f75f",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "d83d11f9-0fd3-4878-a245-3acf7b9292ec",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:39.921Z",
+                    "updated_at": "2023-02-24T09:36:40.168Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549841/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://203.115.85.65:58236/Mozi.m",
+            "score": 80
+        },
+        {
+            "id": "url--4441bf08-274b-50d7-b1f4-242446825412",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "bd589a51-2312-46b2-896a-c57240a2454c",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:40.672Z",
+                    "updated_at": "2023-02-24T09:36:40.710Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549840/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://175.107.11.227:46254/Mozi.m",
+            "score": 80
+        },
+        {
+            "id": "url--5ecb771e-f5a5-5c2d-b813-a98f4c745ed4",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "d5b80bb7-9cb9-454b-b098-4e007040c037",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:41.236Z",
+                    "updated_at": "2023-02-24T09:36:41.390Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549838/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://42.224.173.97:55909/Mozi.m",
+            "score": 80
+        },
+        {
+            "id": "url--89410ced-0cc4-54f9-a852-9b708c112e96",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "3f61487c-2306-4496-bae2-2fdf72335166",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:41.384Z",
+                    "updated_at": "2023-02-24T09:36:41.829Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549839/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.114.14.64:42770/Mozi.m",
+            "score": 80
+        },
+        {
+            "id": "url--77d11a74-40f1-5f79-8112-1b453a4ebe2b",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "1fdf8929-f30a-48a8-8e72-793875852d7b",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:42.338Z",
+                    "updated_at": "2023-02-24T09:36:42.828Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549837/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.113.11.32:48454/Mozi.m",
+            "score": 80
+        },
+        {
+            "id": "url--814b18a9-2d73-555d-a3d9-2fdd5c0a6e04",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "026e3728-ec10-43e9-8a6f-39a42e35e813",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:23.193Z",
+                    "updated_at": "2023-02-24T09:37:00.438Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "hajime"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/38be2dc3fad3d6f9b61caa34863f51a37da2526bf0bfd8311e812e76ef32920a"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549873/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.173.73.99:39171/.i",
+            "score": 80
+        },
+        {
+            "id": "url--687bde90-2b5c-549e-89e1-82a6804325ff",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "f28ac628-fe44-459d-9c6f-1428924326f5",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:23.269Z",
+                    "updated_at": "2023-02-24T09:37:02.568Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "hajime"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549872/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/7eb05eef65fb5868b0b0ba401c0d2553e289f0bffbf4c92c78225bdf6c057756"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://223.13.28.164:1543/.i",
+            "score": 80
+        },
+        {
+            "id": "url--7f59a001-23ac-5d4d-8731-a1155aa4d39e",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "d34cc8ec-3693-4598-ae1d-21234012286e",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:27.463Z",
+                    "updated_at": "2023-02-24T09:37:17.742Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "exe",
+                        "opendir",
+                        "remcosrat",
+                        "rat"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/ab09672b6fe8dc7c4f0020f8fe017262884f9e32b798f002d10c81cfacefdffc"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549865/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://23.94.99.5/9686/vbc.exe",
+            "score": 80
+        },
+        {
+            "id": "url--8bccf768-d9c5-5b7d-a22b-952fe48dbb16",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "ddcdc85f-c1f2-4746-94f8-f0d1416b2966",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:31.243Z",
+                    "updated_at": "2023-02-24T09:37:34.078Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "none"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/1fcd6110deda63c3f9c34471dd60284d41af08acc569f4f4fe53d85423ad7787"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549855/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://tamoes08.top/oleous.dat",
+            "score": 80
+        },
+        {
+            "id": "url--5e7e8d4a-4397-599f-ae73-311f94e82162",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9e578b75-20ca-481c-a66d-3f4507cdb816",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:31.380Z",
+                    "updated_at": "2023-02-24T09:37:36.206Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "none"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549856/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/5c7aff6e8c71170bec0e10b76cf5bbd6807d46727ceb4805c7283b69b8e724c9"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://tamori02.top/geneat.dat",
+            "score": 80
+        },
+        {
+            "id": "url--9459d6de-e847-56d3-bbac-512fd252c6af",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "0dc0c502-756d-41e5-bb45-290e7079e7fa",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:32.366Z",
+                    "updated_at": "2023-02-24T09:37:38.663Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "none"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/e8e0ccc8b4d0a3f88dcd025352e81d936e3f8af141958a0a0124a2de8ee92e85"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549857/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://tamgav04.top/xyloid.dat",
+            "score": 80
+        },
+        {
+            "id": "url--72ddf4cd-5061-5248-bc22-f54b9f4019b9",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9d4df7d0-e21c-442a-86be-eb06a192f024",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:33.156Z",
+                    "updated_at": "2023-02-24T09:37:43.309Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "hajime"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549853/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/9d8ec89c43fb83ba638a3d8312949ca47ad4202411a8feafa1affd62a7758943"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://110.182.43.115:35674/.i",
+            "score": 80
+        },
+        {
+            "id": "url--9378e472-4e89-5bf0-95d4-46b013bae482",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "5bddfe19-e201-471f-b2ef-d9047b2acb21",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:35.610Z",
+                    "updated_at": "2023-02-24T09:37:46.918Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "zip"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/dd710672a27099d06fb46a7b839b8f312b366166c191c2211cf953fe6095dbc9"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549849/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "https://in-gauss.click/file.zip",
+            "score": 80
+        },
+        {
+            "id": "url--829dfd4d-865a-52b9-94f0-c8c5a677df27",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "adaf35e6-d745-439c-b245-7a49a6e2a769",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:35.980Z",
+                    "updated_at": "2023-02-24T09:37:48.959Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "23-254-247-72",
+                        "pw 123",
+                        "rar",
+                        "fakeblastroyale",
+                        "flareroyale",
+                        "redlinestealer",
+                        "exe"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/85d118d0ac6bac9ebec0cbf30f6bb5fe5a3c4378a4a029a637d5f6a3cc5c8650"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549851/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "https://flareroyale.com/uploads/media/settings/January2023/FlareRoyale(0_9)3.rar",
+            "score": 80
+        },
+        {
+            "id": "url--3b222b76-3665-512c-a605-1f478e65b4bf",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "edd62933-850b-4d26-9063-f124288f5328",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:36.438Z",
+                    "updated_at": "2023-02-24T09:37:51.227Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "dropped-by-privateloader",
+                        "privateloader",
+                        "encrypted"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/98c4874a941a7aa12541879922c8af216058f5210d5518dae7960b04d6f773e8"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549850/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "https://vk.com/doc139074685_656659418?hash=dCB6MWzibSQEw5ak4wbPUe2sfvcOViltif6xZf0PYMs&dl=GEZTSMBXGQ3DQNI:1677184574:MvzklzSZD8B0zvHnZdcv9QrO7DCuY4vdfjtFM1RzKfg&api=1&no_preview=1#kis_crypto",
+            "score": 80
+        },
+        {
+            "id": "url--ff0690dd-e627-5209-9577-d1b95a7e9ac4",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "fcdf7a27-73ae-49bd-9b87-9e0f2ea3f672",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:54.451Z",
+                    "updated_at": "2023-02-24T09:37:54.762Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mirai"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549694/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.243.240.167:60233/mozi.a",
+            "score": 80
+        },
+        {
+            "id": "url--1a54d45c-8e45-5b63-8c85-08324eb5bf4a",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "23e5097f-2fa6-405d-8639-d0ffb5dc86cc",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:59.657Z",
+                    "updated_at": "2023-02-24T09:37:59.905Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "none"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549685/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://121.231.224.30:41929/mozi.m",
+            "score": 80
+        },
+        {
+            "id": "url--3160b7a4-6552-57b3-bbd8-4e2f21552d32",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "b25655ce-5028-4842-a82f-8bbbb572b9d6",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:04.410Z",
+                    "updated_at": "2023-02-24T09:38:04.476Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "hajime"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549676/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://111.179.184.145:62252/.i",
+            "score": 80
+        },
+        {
+            "id": "url--1efa741d-7465-5c2d-97b5-bb8d5e6416b3",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "ef35d9a3-bd06-406f-8bf1-4a05e08dc634",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:06.357Z",
+                    "updated_at": "2023-02-24T09:38:06.696Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "shellscript"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549665/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://185.163.45.94/ohshit.sh",
+            "score": 80
+        },
+        {
+            "id": "url--6a854df1-a9ca-5c13-b919-01618cd1dd0e",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "7cfa9938-53f4-4532-ba0f-fb9958c219d9",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:07.766Z",
+                    "updated_at": "2023-02-24T09:38:07.821Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "32",
+                        "powerpc",
+                        "mirai"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549666/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://185.163.45.94/hiddenbin/boatnet.ppc",
+            "score": 80
+        },
+        {
+            "id": "url--e5add177-1a8e-53ac-b659-a5a97c8005ad",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "0672bebd-8c36-4d70-beac-f60c9a1b93c0",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:09.101Z",
+                    "updated_at": "2023-02-24T09:38:09.144Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32",
+                        "elf",
+                        "mirai"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549669/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://185.163.45.94/hiddenbin/boatnet.arc",
+            "score": 80
+        },
+        {
+            "id": "url--1d374eeb-768c-52d1-819b-5dffd8558122",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "5a3098ae-ca02-40fd-9934-8359f1021c0e",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:21.761Z",
+                    "updated_at": "2023-02-24T09:36:55.906Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mirai",
+                        "arm",
+                        "32-bit",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549875/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/3561c5ee12446615568122339e1c34b0b503cf8550c2c5958054414faaf990c9"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.117.11.216:56367/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--e7e04bd7-11fe-527a-a4a2-d286d17f80d7",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "cf65f2b9-ae2f-48f2-9f9d-a1a85f8058bd",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:19.086Z",
+                    "updated_at": "2023-02-24T09:36:45.195Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mirai",
+                        "32-bit",
+                        "mozi",
+                        "elf",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/4081fa8dbd78dd3558a792a02167a2de8e01ee6c8763e639d19ef72667d07117"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549881/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://27.219.11.41:45127/i",
+            "score": 80
+        },
+        {
+            "id": "url--9945b1fe-7c84-5ad4-9c23-0927e0b7f90a",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "8b2e07af-be15-47b7-8587-0c5a4cefd2f1",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:20.501Z",
+                    "updated_at": "2023-02-24T09:36:51.897Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mozi",
+                        "elf",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/f438e0c6fc76465a5ac3dbf3f5c8ddf995d4947ac815b274c2f7c6a07624cdc5"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549877/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.13.165.194:53706/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--360e9edb-7498-5554-9904-92ae47735e23",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "29e47e2a-78c8-4619-9e57-767498e46b04",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:20.133Z",
+                    "updated_at": "2023-02-24T09:36:49.576Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "mips",
+                        "32-bit",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549878/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/3b71bdef5c36f64a684fe08c0d326999cc6fce71484c1a6afdcee912025366ab"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://119.123.174.216:57012/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--1301eea1-0649-5f24-aa92-7ec2b75c237b",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "c538589b-b12b-41a3-8957-dac0eee9c4a4",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:21.921Z",
+                    "updated_at": "2023-02-24T09:36:58.254Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mozi",
+                        "arm",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549874/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/f99719da8c02a6ec2631f068229ed9467c108c24f0ee2b257d99fc86eb52711e"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://121.227.222.56:59094/i",
+            "score": 80
+        },
+        {
+            "id": "url--8d6ccf24-0d1d-5c90-9d9b-479d03781ed0",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "1f2eaff7-3795-4348-aa95-14f77c48eb6a",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:21.680Z",
+                    "updated_at": "2023-02-24T09:36:54.383Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/35fe105ecc186539bacaded615cf56ec2a8fec457b241dd355250ed4c60aa5a8"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549876/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.5.147.84:52291/i",
+            "score": 80
+        },
+        {
+            "id": "url--c0792d9b-a1c3-5070-b698-b0770dd22136",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "388e3273-a331-404c-920a-36282a9d773f",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:20.109Z",
+                    "updated_at": "2023-02-24T09:36:20.146Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549879/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://222.142.244.2:44571/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--767aa282-59db-5736-9b8f-0d43ee0fadc0",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9a8866df-3a64-43ee-905f-0f2f2a6e0f0f",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:29.413Z",
+                    "updated_at": "2023-02-24T09:36:29.479Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "32-bit",
+                        "mozi",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549861/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://125.42.253.253:37858/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--9353be08-bf45-5b35-bc9f-f04b4a7cc354",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "dfd9cb15-b22e-4e65-b3ac-3f1616d28cd0",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:30.830Z",
+                    "updated_at": "2023-02-24T09:36:30.875Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "32-bit",
+                        "mips",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549858/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.194.164.134:32973/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--0406f910-fc3c-5361-8863-bbab25d96da8",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "93126837-76ac-4e5b-818a-afcb431f227d",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:27.840Z",
+                    "updated_at": "2023-02-24T09:36:27.908Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mips",
+                        "mozi",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549864/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.5.147.84:52291/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--42f2a42e-46d9-5407-b7b5-fccb4f554c51",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "c407416e-89fe-46c4-b31f-7f0743bbcb68",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:30.473Z",
+                    "updated_at": "2023-02-24T09:36:30.537Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mozi",
+                        "elf",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549859/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://116.30.202.73:43478/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--c8d16bf1-5cdd-5883-9457-ad497497ede1",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "14bde921-2e6b-4ba3-baaf-634fcf01b5c7",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:29.440Z",
+                    "updated_at": "2023-02-24T09:36:29.779Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mips",
+                        "mozi",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549860/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://115.63.49.2:58156/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--fead04e6-686e-5315-a580-c8ee4ad349ea",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "3c0a0d48-8fe1-4510-a1ec-536d3fe7e376",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:29.239Z",
+                    "updated_at": "2023-02-24T09:36:29.282Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549862/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://59.99.202.66:52910/i",
+            "score": 80
+        },
+        {
+            "id": "url--4482e8e3-bcef-5034-874a-af2b76ec8f30",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "2cca23b2-b93e-4cde-97c8-b3b6da46fce0",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:37.857Z",
+                    "updated_at": "2023-02-24T09:37:55.387Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "elf",
+                        "32-bit",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/b6544413271604fcf9976e5eabdcb3443592af5e3dcc24c675e7fa231f5f0aa1"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549848/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.129.135.110:43253/i",
+            "score": 80
+        },
+        {
+            "id": "url--fc83ce4e-2a1e-554d-871e-d68ede448f9d",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "079f9bd9-582c-47a4-a37f-4d6f85cdb8f6",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:37.940Z",
+                    "updated_at": "2023-02-24T09:36:38.003Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "mozi",
+                        "32-bit",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549846/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://125.43.187.207:51913/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--155e6461-9f8a-59a9-bb9e-44828a56a888",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "55430761-b4a4-4ac4-a526-410e0bdf6045",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:32.714Z",
+                    "updated_at": "2023-02-24T09:36:32.763Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "mozi",
+                        "elf",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549854/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://222.134.172.80:52610/i",
+            "score": 80
+        },
+        {
+            "id": "url--42ce72c2-e33d-54e2-a752-98ab5b52e9a0",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "09f22f03-02c3-4543-9591-b55beb727c8a",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:38.035Z",
+                    "updated_at": "2023-02-24T09:36:38.106Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "elf",
+                        "mips",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549845/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.127.18.243:51185/i",
+            "score": 80
+        },
+        {
+            "id": "url--c6bcba3e-1910-5dbb-8f89-53bb1ffa3791",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "48165f57-2448-46f0-90b7-7352819332ec",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:36.835Z",
+                    "updated_at": "2023-02-24T09:36:36.856Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mozi",
+                        "elf",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549847/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.12.42.150:35052/i",
+            "score": 80
+        },
+        {
+            "id": "url--4f478957-ed8d-5268-ad13-f29009a672a0",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "504dae0e-0374-4470-a5d5-8aff61a3a57e",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:48.563Z",
+                    "updated_at": "2023-02-24T09:36:48.608Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mozi",
+                        "elf",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549824/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://42.225.52.131:56338/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--55178cff-1516-5b5c-bd7f-ee6f98a026dd",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "d11def3a-0dbe-4fdb-94ac-a76af36c56b0",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:48.436Z",
+                    "updated_at": "2023-02-24T09:36:48.525Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "mozi",
+                        "32-bit",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549825/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.12.42.150:35052/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--6b5492b6-dd52-5ee4-ad22-1de2e56acb40",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "2764346b-6b24-4cb7-b2b3-dd74551559f2",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:48.787Z",
+                    "updated_at": "2023-02-24T09:36:48.829Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "mips",
+                        "elf",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549823/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.56.165.73:57404/i",
+            "score": 80
+        },
+        {
+            "id": "url--ec63302c-2474-50d0-b88a-20ee86f34955",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "02e23bbd-d057-4079-99f8-cddd7ff498b2",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:54.821Z",
+                    "updated_at": "2023-02-24T09:37:54.935Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mozi",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549693/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://61.168.137.219:40685/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--89468100-6365-56cd-822b-701273d789d1",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "554307bb-7fdb-48f2-a527-5240e53ea1cd",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:56.061Z",
+                    "updated_at": "2023-02-24T09:37:56.098Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mozi",
+                        "mips",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549691/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://221.15.134.120:37220/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--315f398f-ba92-5ec4-9b63-9a6a189ed8b2",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "755dfca3-4e87-4274-a96e-15a0499a1ada",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:55.948Z",
+                    "updated_at": "2023-02-24T09:37:56.011Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mozi",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549692/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.9.97.227:55696/i",
+            "score": 80
+        },
+        {
+            "id": "url--d02f9948-6c7b-5021-a245-084ebabbf8fb",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "07b0546f-d04b-4c20-b29b-abb62a62c340",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:56.426Z",
+                    "updated_at": "2023-02-24T09:37:56.834Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "elf",
+                        "mozi",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549690/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.5.147.114:55510/i",
+            "score": 80
+        },
+        {
+            "id": "url--b7a05161-b5be-5c89-9f68-0c180bb6c932",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "c37b3a11-cf6a-4a87-9c72-2288e8d21a6c",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:09.477Z",
+                    "updated_at": "2023-02-24T09:36:12.847Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "elf",
+                        "mips",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/9ba4a6feeb83ed4479e6d05b7a02aaee1d32e168575eb1101850d70c0a28c62e"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549892/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.112.32.110:50618/i",
+            "score": 80
+        },
+        {
+            "id": "url--d3d316f0-a7df-5cc5-a35c-be2d00e2712e",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "b9edc3ed-984c-4608-812e-fbf49f0b9a6f",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:09.895Z",
+                    "updated_at": "2023-02-24T09:36:15.454Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "mips",
+                        "elf",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549893/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/529efeb3aa974a383f4d8d19889ed131182840fbb10423ea169c895b3e2f3fba"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://221.15.7.99:44798/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--54651b9d-3586-577e-9bbc-6e0decb9d9d7",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "d1cb1a9c-f652-4b62-806e-bd74f0664b7b",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:09.842Z",
+                    "updated_at": "2023-02-24T09:36:18.084Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "mips",
+                        "elf",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/968b80ee770e24187907434f9caf55293f2ce0ab2cabb9bedf75bf082c9be648"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549894/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.132.167.96:38656/i",
+            "score": 80
+        },
+        {
+            "id": "url--1271674a-ccf8-508c-8597-cebf2088d0f3",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "244e3265-c1d3-466d-bc8b-e619b9104ac3",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:14.480Z",
+                    "updated_at": "2023-02-24T09:36:32.057Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "32-bit",
+                        "mips",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/93c7a4048879d031dfba7aad11f4ab56bee79cda44e01e07bf408aae93b2dedc"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549887/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.204.71.93:44524/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--00477f72-ef79-53f8-a26f-a34f8bcdb9bc",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "a09a548c-077f-4578-89ca-f2dfa038eb16",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:12.046Z",
+                    "updated_at": "2023-02-24T09:36:12.079Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "32-bit",
+                        "mozi",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549891/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.13.165.194:53706/i",
+            "score": 80
+        },
+        {
+            "id": "url--878b416d-8152-5a01-9b18-29e943b9a872",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "4d86b726-92e5-498a-a292-48eb7a11f5ed",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:14.528Z",
+                    "updated_at": "2023-02-24T09:36:14.610Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mips",
+                        "elf",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549886/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://222.142.244.2:44571/i",
+            "score": 80
+        },
+        {
+            "id": "url--935fc727-0d53-59d7-b5e8-7b9d586a7dd1",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "796fd02d-b792-4fc6-82bc-a4c6d8c0cb8d",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:13.907Z",
+                    "updated_at": "2023-02-24T09:36:14.066Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mips",
+                        "elf",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549888/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://119.189.153.85:54272/i",
+            "score": 80
+        },
+        {
+            "id": "url--0d163e5e-8b0e-5d01-99ad-bbb6e10205a5",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "41968c04-5b80-4459-9600-5ca56b27050f",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:18.918Z",
+                    "updated_at": "2023-02-24T09:36:40.570Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mozi",
+                        "32-bit",
+                        "arm"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549882/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/e8d138c9d9f1857375f245135822984021ebe96bb3cb6a54e9292720ee5bad15"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://122.190.165.118:58960/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--e215d5db-2e55-5e06-b066-3d2561f1a32d",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "399a8b76-cde0-462b-9f0d-5cf9a82e631d",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:12.375Z",
+                    "updated_at": "2023-02-24T09:36:22.595Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/5bc3281f63821fc7d1c72e500c47315663a9ada36ab3ab313f5551f69f99a016"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549889/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://115.49.235.234:51481/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--d0d5cf18-3e7e-5bd2-be24-f39dade3f08a",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "cd590c0c-c7e3-47fe-899c-e72e087cfc27",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:18.963Z",
+                    "updated_at": "2023-02-24T09:36:43.066Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mips",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/48f7baeeb1e5b80973dd25daa58ba71bacad5a0d486cf47f4829efa83d87f9fa"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549880/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://115.52.188.130:49280/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--e7c0df72-0fa0-5a7f-8a07-af11a4d24518",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "d7da4f23-7ec0-4bbe-a373-d05dd6bdf93b",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:17.127Z",
+                    "updated_at": "2023-02-24T09:36:17.314Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mozi",
+                        "mips",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549883/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.132.167.96:38656/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--e200e7bc-c936-531e-81e1-5c7167d0faec",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "a1a40a92-c8d6-492d-b96c-e2de0bcb97c3",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:17.059Z",
+                    "updated_at": "2023-02-24T09:36:17.133Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mozi",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549884/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://115.48.144.8:60539/i",
+            "score": 80
+        },
+        {
+            "id": "url--359635d5-7c5e-54d0-b345-fc2dc004cdb6",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "21b641e7-eee8-4351-8e8c-bbe988efad35",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:24.798Z",
+                    "updated_at": "2023-02-24T09:37:07.194Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "mozi",
+                        "32-bit",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/be911aaae4d0e5f7ab1fae7ea6d66dba5dcf395014d219f04335369e5c4880e8"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549870/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://119.189.227.213:50444/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--a364f6c9-d011-5a23-80a5-af9b6a8882ab",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "cf68b13c-d0ae-4c85-a558-6fd402d502bd",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:26.357Z",
+                    "updated_at": "2023-02-24T09:37:13.972Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "32-bit",
+                        "mips",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549867/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/e40c903ae5cf5ac560c94a186c00c7950592942743efee7766eb85056e0942d1"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.122.150.95:58072/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--a73322a3-b123-5db1-9b1f-544b035646ad",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "f456458e-fe6b-464e-bd25-3966a9377712",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:23.767Z",
+                    "updated_at": "2023-02-24T09:37:05.397Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "mozi",
+                        "32-bit",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549871/"
+                        },
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/5d326499002bbb2e554c8c45d6ab69ae3c19596d56d870dc6fd1b41ec641ded9"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://41.251.189.121:39206/i",
+            "score": 80
+        },
+        {
+            "id": "url--3dde33d0-0b30-500d-9cfd-c788791c5d57",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "e2ed4146-f1c3-4138-a7c7-5e867c92e365",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:24.812Z",
+                    "updated_at": "2023-02-24T09:37:09.376Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "elf",
+                        "mozi",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "VirusTotal",
+                            "description": "VirusTotal Report",
+                            "url": "https://www.virustotal.com/gui/url/2ac1a39426aedda37d83e73338476f916ce419e2bb9860e144917f21b71b5fb5"
+                        },
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549869/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://125.42.253.253:37858/i",
+            "score": 80
+        },
+        {
+            "id": "url--2dc231d1-bb3f-5c7f-822f-a5835e55bcf9",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "b6520acf-3f8a-43a6-ac07-f9eae1627442",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:25.166Z",
+                    "updated_at": "2023-02-24T09:36:25.201Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "mozi",
+                        "elf",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549868/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://124.131.132.221:45872/i",
+            "score": 80
+        },
+        {
+            "id": "url--4c15bd15-ddca-5fa1-86a7-d3a125c8f8e0",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9e22db83-b061-4b94-85f1-e3230407944e",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:27.849Z",
+                    "updated_at": "2023-02-24T09:36:27.911Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "mips",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549863/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://116.30.202.73:43478/i",
+            "score": 80
+        },
+        {
+            "id": "url--32dafe10-2c47-5058-8c36-6e73bd97b797",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "e067842e-53bb-4225-b13a-c1325e6a294c",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:26.367Z",
+                    "updated_at": "2023-02-24T09:36:26.438Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "elf",
+                        "mozi",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549866/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.194.164.134:32973/i",
+            "score": 80
+        },
+        {
+            "id": "url--bed06474-a91d-5e49-a2bb-cf2d7fff0a69",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "146c63a1-e68c-492a-933b-f86def9e9266",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:39.794Z",
+                    "updated_at": "2023-02-24T09:36:39.854Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "elf",
+                        "mozi",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549842/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://124.131.132.221:45872/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--51ae1635-7832-51e9-bd39-a7f95f678eb2",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "f60837da-d69d-48d0-972f-218fede37a73",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:39.717Z",
+                    "updated_at": "2023-02-24T09:36:39.744Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "mozi",
+                        "32-bit",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549843/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://222.134.172.80:52610/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--991db451-d833-578e-81ee-3e5b2c690de9",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "0b40c7cc-fb04-4c4f-b4bb-8aeaa5a2a1f0",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:42.968Z",
+                    "updated_at": "2023-02-24T09:36:43.015Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "32-bit",
+                        "mozi",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549835/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.119.184.140:40608/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--e448a8d0-0b6e-5dcf-b013-cb8732a445ae",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "126238a2-2e9a-477e-9a04-dfae6b7a65bd",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:39.170Z",
+                    "updated_at": "2023-02-24T09:36:39.223Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mozi",
+                        "mips",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549844/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://115.62.157.51:46882/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--d41f5a1a-10fd-5d4f-96f6-0bfb44df9867",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "c058fbaa-92f6-4149-aa6f-45d881ba6432",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:34.515Z",
+                    "updated_at": "2023-02-24T09:36:34.627Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mips",
+                        "mozi",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549852/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.193.107.67:49905/i",
+            "score": 80
+        },
+        {
+            "id": "url--9d5b2578-e4db-5a34-9e48-0d0f4d7f8c3c",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "0095f88f-90bc-411a-9577-e98aeb533004",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:43.859Z",
+                    "updated_at": "2023-02-24T09:36:43.953Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "mips",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549834/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.4.205.112:34039/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--0b7c318c-6817-507b-a7aa-bfcc3de0fe03",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "2d53b7f4-dbd1-4ec0-9eab-299665097b15",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:46.902Z",
+                    "updated_at": "2023-02-24T09:36:46.933Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mozi",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549828/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.127.18.243:51185/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--e575db5e-8cf0-565d-a66c-95e303300b0a",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "53138648-67f1-4175-ad83-966b2760aaa3",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:42.909Z",
+                    "updated_at": "2023-02-24T09:36:42.957Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "elf",
+                        "32-bit",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549836/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://112.249.175.169:34889/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--95529249-8709-5755-b9ed-cf28e27dbc6e",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "6c2dea18-2dee-41a2-9216-71904b1e86b7",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:45.832Z",
+                    "updated_at": "2023-02-24T09:36:46.155Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549830/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.204.95.106:56631/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--92158d89-dd35-55ca-acf1-01e9853e8b61",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "ec78174a-d6a0-404b-80ba-d634685f4f61",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:45.970Z",
+                    "updated_at": "2023-02-24T09:36:46.207Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "elf",
+                        "32-bit",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549829/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.216.17.60:45392/i",
+            "score": 80
+        },
+        {
+            "id": "url--51a2dd2c-a8b6-5a55-8332-6e9fbab0fca6",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "44266653-e7ca-4708-9019-36c147aef885",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:49.850Z",
+                    "updated_at": "2023-02-24T09:36:50.155Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549821/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.198.246.94:49814/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--51737db1-c477-559f-9f9e-a595d11016dc",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "6dd9f82f-7a28-4a55-9293-d28f4b613c9c",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:49.536Z",
+                    "updated_at": "2023-02-24T09:36:49.583Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "32-bit",
+                        "mozi",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549822/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://42.234.210.246:56656/i",
+            "score": 80
+        },
+        {
+            "id": "url--9d324340-9407-50d7-8034-f3f104adaa9b",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "5a98a503-915b-44c7-bc38-ab132877d16c",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:36:47.062Z",
+                    "updated_at": "2023-02-24T09:36:47.116Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "mips",
+                        "elf",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549827/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://61.3.114.13:53448/i",
+            "score": 80
+        },
+        {
+            "id": "url--5604543b-bb2f-5453-a943-b5a277f002d4",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "a3311a5c-3ff6-4a44-ba75-17322819c990",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:59.646Z",
+                    "updated_at": "2023-02-24T09:37:59.841Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "mozi",
+                        "mirai",
+                        "arm",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549686/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.87.122.159:34753/i",
+            "score": 80
+        },
+        {
+            "id": "url--90e8c670-89d2-555d-be1e-f960481e9e35",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "c2d77547-5a0d-46a5-b476-23dc13a82fca",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:58.322Z",
+                    "updated_at": "2023-02-24T09:37:58.502Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "elf",
+                        "32-bit",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549687/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://115.50.211.189:45435/i",
+            "score": 80
+        },
+        {
+            "id": "url--80021a9d-dd9b-519c-864f-a6f9c7e30056",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "af1deb3f-eb5a-47b6-a545-f5aa30f57e96",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:01.203Z",
+                    "updated_at": "2023-02-24T09:38:01.237Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "elf",
+                        "mips",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549683/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.213.9.64:42339/i",
+            "score": 80
+        },
+        {
+            "id": "url--5cf25bad-2290-53f9-b6c7-8ffc0535c068",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "e7a758fe-ecf0-4811-b99e-8593a856286b",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:58.277Z",
+                    "updated_at": "2023-02-24T09:37:58.458Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549688/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.223.82.116:45018/i",
+            "score": 80
+        },
+        {
+            "id": "url--a776f1f8-5edf-5a03-94a8-83e7e9645028",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "e2e2312c-5042-431f-aac8-340245bf815c",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:03.802Z",
+                    "updated_at": "2023-02-24T09:38:03.834Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "elf",
+                        "mozi",
+                        "arm",
+                        "mirai"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549677/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://27.37.251.194:59389/i",
+            "score": 80
+        },
+        {
+            "id": "url--ee2d5f82-0de9-52a5-9041-08aea96c19b5",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "cbd72e3a-7849-4ec6-9fb4-428b7c2afb34",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:59.825Z",
+                    "updated_at": "2023-02-24T09:37:59.904Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mips",
+                        "mozi",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549684/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.129.135.72:40585/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--2ff3a1b3-6939-5ae7-b12a-1e684fe9df1b",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "65c62d39-91c6-4e7c-8778-c2ae0c278469",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:01.527Z",
+                    "updated_at": "2023-02-24T09:38:01.585Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mips",
+                        "32-bit",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549682/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://115.50.211.189:45435/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--436062da-3ea1-516c-86ad-9a71c33682c5",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "ce1adaf1-f792-4aa9-b531-cd0c489827d8",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:03.153Z",
+                    "updated_at": "2023-02-24T09:38:03.186Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mips",
+                        "mozi",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549678/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://115.48.144.8:60539/bin.sh",
+            "score": 80
+        },
+        {
+            "id": "url--3510c69c-23c1-5459-b44f-f46f6c5a0c89",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "8be91598-6b60-430f-ad3b-48c5255a61d3",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:37:58.273Z",
+                    "updated_at": "2023-02-24T09:37:58.324Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32-bit",
+                        "elf",
+                        "mips",
+                        "mozi"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549689/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://222.137.119.123:39882/i",
+            "score": 80
+        },
+        {
+            "id": "url--df0e05e8-ee4e-55fa-9e93-e46f398a0b0b",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "633467c0-849e-4d1a-afa1-f868563b4d1c",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:02.959Z",
+                    "updated_at": "2023-02-24T09:38:03.023Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "32-bit",
+                        "elf",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549679/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://123.12.234.172:60055/i",
+            "score": 80
+        },
+        {
+            "id": "url--da3d15f1-0271-5697-9c21-b0ebd59faa32",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "2d4778e3-ecfd-4008-8f43-884241946cdc",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:02.391Z",
+                    "updated_at": "2023-02-24T09:38:02.413Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "elf",
+                        "mozi",
+                        "mips",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549680/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://182.120.7.220:41752/i",
+            "score": 80
+        },
+        {
+            "id": "url--f6f184b2-65a0-5117-a2cb-85abf66cd498",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "f8bbd1b8-d0a2-4010-ae78-36cc15cc2f50",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:04.890Z",
+                    "updated_at": "2023-02-24T09:38:05.272Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32",
+                        "elf",
+                        "arm",
+                        "mirai"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549673/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://185.163.45.94/hiddenbin/boatnet.arm6",
+            "score": 80
+        },
+        {
+            "id": "url--ecc5eba5-ca3b-56cb-b93e-ea9ab9cfa9f0",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "27618262-e987-4070-bffb-70e31b91bc13",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:05.867Z",
+                    "updated_at": "2023-02-24T09:38:05.927Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "32",
+                        "mirai",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549674/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://185.163.45.94/hiddenbin/boatnet.mpsl",
+            "score": 80
+        },
+        {
+            "id": "url--422f2c89-dd4a-56a5-b7c1-872f25bee6cb",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "5abc78ce-cfbf-486c-b92c-60ad6ea4aa6d",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:07.409Z",
+                    "updated_at": "2023-02-24T09:38:07.458Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "arm",
+                        "mirai",
+                        "32",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549667/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://185.163.45.94/hiddenbin/boatnet.arm",
+            "score": 80
+        },
+        {
+            "id": "url--4d9894c2-b975-5745-8850-0d0de39bc9b9",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "69b1bad5-0ca8-4d45-a0c3-e10b1a88b1f3",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:04.706Z",
+                    "updated_at": "2023-02-24T09:38:04.757Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "32-bit",
+                        "mips",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549675/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://117.253.152.70:36867/i",
+            "score": 80
+        },
+        {
+            "id": "url--e2f44ac5-ba22-5a69-b5aa-ec8c95f694ed",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "d82527c8-bd31-4c0b-9ba9-88e83461b4dc",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:01.622Z",
+                    "updated_at": "2023-02-24T09:38:01.659Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mips",
+                        "mozi",
+                        "elf",
+                        "32-bit"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549681/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://221.14.114.134:38940/i",
+            "score": 80
+        },
+        {
+            "id": "url--f9aabf2f-6daf-5e7b-973e-38e928def420",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "1610cd1e-10f9-4d5d-9824-a3e153ca45ad",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:09.118Z",
+                    "updated_at": "2023-02-24T09:38:09.159Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mirai",
+                        "elf",
+                        "arm",
+                        "32"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549671/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://185.163.45.94/hiddenbin/boatnet.arm5",
+            "score": 80
+        },
+        {
+            "id": "url--957ea4b0-27f5-595b-9bb4-abf96b29a657",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "236fc07c-60e9-46e2-a823-1d0b5131dd47",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:09.165Z",
+                    "updated_at": "2023-02-24T09:38:09.198Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "32",
+                        "elf",
+                        "arm",
+                        "mirai"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549670/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://185.163.45.94/hiddenbin/boatnet.arm7",
+            "score": 80
+        },
+        {
+            "id": "url--62ddfc63-7784-53d3-bdff-b3db24665f01",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "2cdd2376-1cd9-4d1d-8eeb-0d2be466b194",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:07.849Z",
+                    "updated_at": "2023-02-24T09:38:07.914Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mirai",
+                        "32",
+                        "motorola",
+                        "elf"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549668/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://185.163.45.94/hiddenbin/boatnet.m68k",
+            "score": 80
+        },
+        {
+            "id": "url--a8e41775-f346-54fc-95ef-bae827c03c5c",
+            "spec_version": "2.1",
+            "type": "url",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "5f78b1ab-81f0-424c-b29b-a616eb0658bd",
+                    "type": "Url",
+                    "created_at": "2023-02-24T09:38:05.911Z",
+                    "updated_at": "2023-02-24T09:38:05.959Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                },
+                "extension-definition--f93e2c80-4231-4f9a-af8b-95c9bd566a82": {
+                    "extension_type": "property-extension",
+                    "labels": [
+                        "mozi",
+                        "elf",
+                        "32-bit",
+                        "mips"
+                    ],
+                    "score": 80,
+                    "created_by_ref": "identity--0303206b-ec74-5e9e-81df-e6532e9c1e91",
+                    "external_references": [
+                        {
+                            "source_name": "Abuse.ch URLhaus",
+                            "description": "URLhaus repository URL",
+                            "url": "https://urlhaus.abuse.ch/url/2549672/"
+                        }
+                    ]
+                }
+            },
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "value": "http://219.155.12.251:58159/i",
+            "score": 80
+        }
+    ]
+}

@@ -1,0 +1,3454 @@
+{
+    "more": true,
+    "next": "WzE2NzcyMjkyNjczNTAsIjk3NmM5ZDZiLWVkYzQtNDg2Ni1iNDBiLTEyZjk2Y2M1ZWE3MSIsInZ1bG5lcmFiaWxpdHktLWRlNjQwZjBlLTRhODQtNWNiMy1hNjg1LTI3ZDg4NWJmYzRlNiJd",
+    "objects": [
+        {
+            "id": "vulnerability--463ae7d7-59bd-5947-8056-85e9c4343323",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "8c734e16-12ca-4775-8acd-48892ad1ec61",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T08:59:48.571Z",
+                    "updated_at": "2023-02-24T08:59:48.827Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2021-11-03T00:00:00.000Z",
+            "modified": "2023-02-24T08:59:48.827Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "labels": [
+                "adobe",
+                "coldfusion"
+            ],
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "created_by_ref": "identity--80f07246-1c8c-5225-9ac5-fba6d6345f99",
+            "name": "CVE-2018-15961",
+            "description": "Adobe ColdFusion versions July 12 release (2018.0.0.310739), Update 6 and earlier, and Update 14 and earlier have an unrestricted file upload vulnerability. Successful exploitation could lead to arbitrary code execution."
+        },
+        {
+            "id": "vulnerability--218a9203-68c6-53b7-b9a0-0e99de8699bf",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "c602d8c6-dc29-49f3-b1dd-d5b0e3ed606c",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T08:59:53.344Z",
+                    "updated_at": "2023-02-24T08:59:53.405Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-24T03:15:00.000Z",
+            "modified": "2023-02-24T08:59:53.405Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0995"
+                },
+                {
+                    "source_name": "CONFIRM",
+                    "url": "https://huntr.dev/bounties/2847b92b-22c2-4dbc-a9d9-56a7cd12fe5f"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/unilogies/bumsys/commit/927214bd7c475b31062c56294ff7b23d523a7219"
+                }
+            ],
+            "name": "CVE-2023-0995",
+            "description": "Cross-site Scripting (XSS) - Stored in GitHub repository unilogies/bumsys prior to v2.0.1."
+        },
+        {
+            "id": "vulnerability--704787ff-1800-502e-9327-1766b1dddee1",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "edcea2af-c826-4203-8ed0-dbc7ff77e3ee",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T08:59:57.093Z",
+                    "updated_at": "2023-02-24T08:59:57.141Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-24T00:15:00.000Z",
+            "modified": "2023-02-24T08:59:57.141Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26468"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/cerebrate-project/cerebrate/commit/7ccf9252470a23acc38ad6ed13eecf523e368b48"
+                }
+            ],
+            "name": "CVE-2023-26468",
+            "description": "Cerebrate 1.12 does not properly consider organisation_id during creation of API keys."
+        },
+        {
+            "id": "vulnerability--3fd83578-1643-5c7f-abab-37dcee4d43cb",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "73739f7a-ae5f-4ca1-ba42-40049b33a029",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:05.237Z",
+                    "updated_at": "2023-02-24T09:00:05.613Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2021-11-03T00:00:00.000Z",
+            "modified": "2023-02-24T09:00:05.613Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "labels": [
+                "apache",
+                "shiro"
+            ],
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "created_by_ref": "identity--80f07246-1c8c-5225-9ac5-fba6d6345f99",
+            "name": "CVE-2016-4437",
+            "description": "Apache Shiro before 1.2.5, when a cipher key has not been configured for the \"remember me\" feature, allows remote attackers to execute arbitrary code or bypass intended access restrictions via an unspecified request parameter."
+        },
+        {
+            "id": "vulnerability--87d04f6c-7689-5bd6-bb62-f5331f66c29e",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "2f5ca20a-064a-4a3c-ab2b-e1667628099a",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:06.379Z",
+                    "updated_at": "2023-02-24T09:00:06.450Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T22:15:00.000Z",
+            "modified": "2023-02-24T09:00:06.450Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0755"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.cisa.gov/uscert/ics/advisories/icsa-23-054-01"
+                }
+            ],
+            "name": "CVE-2023-0755",
+            "description": "The affected products are vulnerable to an improper validation of array index, which could allow an attacker to crash the server and remotely execute arbitrary code."
+        },
+        {
+            "id": "vulnerability--43b9130c-3d65-5fd2-9a40-59cbad883ccf",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "ea25cb57-a163-49bf-aa4a-1f3b41c7091f",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:12.145Z",
+                    "updated_at": "2023-02-24T09:00:12.185Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2021-11-03T00:00:00.000Z",
+            "modified": "2023-02-24T09:00:12.185Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "labels": [
+                "struts",
+                "apache"
+            ],
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "created_by_ref": "identity--80f07246-1c8c-5225-9ac5-fba6d6345f99",
+            "name": "CVE-2018-11776",
+            "description": "Apache Struts versions 2.3 to 2.3.34 and 2.5 to 2.5.16 contain a vulnerability which can allow for remote code execution."
+        },
+        {
+            "id": "vulnerability--967cdb06-5725-5772-bb63-bc9bf29733fa",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "1cf803e1-455c-4d98-b674-a6a2d58a7475",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:13.401Z",
+                    "updated_at": "2023-02-24T09:00:13.483Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T20:15:00.000Z",
+            "modified": "2023-02-24T09:00:13.483Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.tenable.com/security/research/tra-2023-7"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26326"
+                }
+            ],
+            "name": "CVE-2023-26326",
+            "description": "The BuddyForms WordPress plugin, in versions prior to 2.7.8, was affected by an unauthenticated insecure deserialization issue. An unauthenticated attacker could leverage this issue to call files using a PHAR wrapper that will deserialize the data and call arbitrary PHP Objects that can be used to perform a variety of malicious actions granted a POP chain is also present."
+        },
+        {
+            "id": "vulnerability--e219af93-bbc9-53cc-8a17-b9c49bea09d9",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "13723184-4981-465b-8e61-da8caec31092",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:14.343Z",
+                    "updated_at": "2023-02-24T09:00:14.647Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T20:15:00.000Z",
+            "modified": "2023-02-24T09:00:14.647Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.tenable.com/security/research/tra-2023-2"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26325"
+                }
+            ],
+            "name": "CVE-2023-26325",
+            "description": "The 'rx_export_review' action in the ReviewX WordPress Plugin version < 1.6.4, is affected by an authenticated SQL injection vulnerability in the 'filterValue' and 'selectedColumns' parameters."
+        },
+        {
+            "id": "vulnerability--1740ddc7-a877-5d75-9dbe-b4bae3b833ba",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "4fa1347c-86f7-42aa-b3e5-e81411c25be9",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T08:59:47.013Z",
+                    "updated_at": "2023-02-24T08:59:47.379Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2021-11-03T00:00:00.000Z",
+            "modified": "2023-02-24T08:59:47.379Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "labels": [
+                "coldfusion",
+                "adobe"
+            ],
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "created_by_ref": "identity--80f07246-1c8c-5225-9ac5-fba6d6345f99",
+            "name": "CVE-2018-4939",
+            "description": "Adobe ColdFusion Update 5 and earlier versions, ColdFusion 11 Update 13 and earlier versions have an exploitable Deserialization of Untrusted Data vulnerability. Successful exploitation could lead to arbitrary code execution."
+        },
+        {
+            "id": "vulnerability--4a434b04-886c-5206-a03f-002d2ea7768d",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "719407be-301a-4c49-aa07-ee1e82c9af59",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T08:59:48.887Z",
+                    "updated_at": "2023-02-24T08:59:48.964Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-24T05:15:00.000Z",
+            "modified": "2023-02-24T08:59:48.964Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/timdown/rangy/issues/478"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26102"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://security.snyk.io/vuln/SNYK-JS-RANGY-3175702"
+                }
+            ],
+            "name": "CVE-2023-26102",
+            "description": "All versions of the package rangy are vulnerable to Prototype Pollution when using the extend() function in file rangy-core.js.The function uses recursive merge which can lead an attacker to modify properties of the Object.prototype"
+        },
+        {
+            "id": "vulnerability--1da369cd-a847-54af-8d5e-d9dfc12cd9c9",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "761c9865-4adf-41b3-b8e2-a505aff6b869",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T08:59:50.179Z",
+                    "updated_at": "2023-02-24T08:59:50.359Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-24T05:15:00.000Z",
+            "modified": "2023-02-24T08:59:50.359Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A6732&LanguageCode=en&DocumentPartId=&Action=Launch"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-1607"
+                }
+            ],
+            "name": "CVE-2022-1607",
+            "description": "Cross-Site Request Forgery (CSRF) vulnerability in ABB Pulsar Plus System Controller NE843_S, ABB Infinity DC Power Plant allows Cross Site Request Forgery.This issue affects Pulsar Plus System Controller NE843_S : comcode 150042936; Infinity DC Power Plant: H5692448 G104 G842 G224L G630-4 G451C(2) G461(2) – comcode 150047415."
+        },
+        {
+            "id": "vulnerability--caf65dbb-5341-513d-81bb-7cdfb6309457",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9b51ed46-59ad-4e01-aea8-e1adb6f44f3b",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T08:59:50.369Z",
+                    "updated_at": "2023-02-24T08:59:50.943Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2021-11-03T00:00:00.000Z",
+            "modified": "2023-02-24T08:59:50.943Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "labels": [
+                "flash player",
+                "adobe"
+            ],
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "created_by_ref": "identity--80f07246-1c8c-5225-9ac5-fba6d6345f99",
+            "name": "CVE-2018-4878",
+            "description": "A use-after-free vulnerability was discovered in Adobe Flash Player before 28.0.0.161. This vulnerability occurs due to a dangling pointer in the Primetime SDK related to media player handling of listener objects. A successful attack can lead to arbitrary code execution. This was exploited in the wild in January and February 2018."
+        },
+        {
+            "id": "vulnerability--c618c699-9468-5210-8119-4bc39e31f665",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "52acfd82-4b81-4d22-9176-bcfc94ab1a87",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T08:59:58.117Z",
+                    "updated_at": "2023-02-24T08:59:58.490Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T23:15:00.000Z",
+            "modified": "2023-02-24T08:59:58.490Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-24212"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/w0x68y/cve-lists/blob/main/Tenda/vuln/readme.md"
+                }
+            ],
+            "name": "CVE-2023-24212",
+            "description": "Tenda AX3 V16.03.12.11 was discovered to contain a stack overflow via the timeType function at /goform/SetSysTimeCfg."
+        },
+        {
+            "id": "vulnerability--2fc667e7-f150-519e-a8f7-3bb6dae5ba77",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "36963b65-3fc7-443a-8bd7-fac0feecc18c",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T08:59:59.005Z",
+                    "updated_at": "2023-02-24T08:59:59.042Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2021-11-03T00:00:00.000Z",
+            "modified": "2023-02-24T08:59:59.042Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "labels": [
+                "apache",
+                "struts"
+            ],
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "created_by_ref": "identity--80f07246-1c8c-5225-9ac5-fba6d6345f99",
+            "name": "CVE-2017-9805",
+            "description": "The REST Plugin in Apache Struts 2.1.1 through 2.3.x before 2.3.34 and 2.5.x before 2.5.13 contains a vulnerability which can lead to Remote Code Execution."
+        },
+        {
+            "id": "vulnerability--e767b880-8b9f-52f1-b42c-f1e3d5bd7623",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "263784ca-7e6d-4d7b-989f-6e098555103b",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:05.014Z",
+                    "updated_at": "2023-02-24T09:00:05.058Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T22:15:00.000Z",
+            "modified": "2023-02-24T09:00:05.058Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/Fndroid/clash_for_windows_pkg/issues/3891"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/Fndroid/clash_for_windows_pkg"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-24205"
+                }
+            ],
+            "name": "CVE-2023-24205",
+            "description": "Clash for Windows v0.20.12 was discovered to contain a remote code execution (RCE) vulnerability which is exploited via overwriting the configuration file (cfw-setting.yaml)."
+        },
+        {
+            "id": "vulnerability--3d5ade22-ae74-5c10-8ad2-c8744ee828ea",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "0790e987-d535-47b6-98e5-aea9e0728426",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:07.737Z",
+                    "updated_at": "2023-02-24T09:00:07.957Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T22:15:00.000Z",
+            "modified": "2023-02-24T09:00:07.957Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0754"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.cisa.gov/uscert/ics/advisories/icsa-23-054-01"
+                }
+            ],
+            "name": "CVE-2023-0754",
+            "description": "The affected products are vulnerable to an integer overflow or wraparound, which could allow an attacker to crash the server and remotely execute arbitrary code."
+        },
+        {
+            "id": "vulnerability--7be8f114-3be4-51d7-a25c-5dc873479230",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "f3652fb3-8ff1-43ed-a986-40d100f14388",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:09.120Z",
+                    "updated_at": "2023-02-24T09:00:09.155Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T22:15:00.000Z",
+            "modified": "2023-02-24T09:00:09.155Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-46785"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://scomsupport.squaredup.com/hc/en-us/articles/9476404119197-CVE-2022-46785-Prototype-pollution-leading-to-XSS"
+                }
+            ],
+            "name": "CVE-2022-46785",
+            "description": "SquaredUp Dashboard Server SCOM edition before 5.7.1 GA allows XSS (issue 1 of 2)."
+        },
+        {
+            "id": "vulnerability--87805f71-601f-5898-8109-074627667ad4",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9659ee5c-fd46-4ca1-a278-d505f7ab7d76",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:10.450Z",
+                    "updated_at": "2023-02-24T09:00:10.517Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T22:15:00.000Z",
+            "modified": "2023-02-24T09:00:10.517Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-46784"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://scomsupport.squaredup.com/hc/en-us/articles/9476404091677-CVE-2022-46784-Client-side-open-redirection"
+                }
+            ],
+            "name": "CVE-2022-46784",
+            "description": "SquaredUp Dashboard Server SCOM edition before 5.7.1 GA allows open redirection. (The issue was originally found in 5.5.1 GA.)"
+        },
+        {
+            "id": "vulnerability--80f2be10-64b8-5a48-b13b-d0fbf442044b",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "3dea9494-2d76-4208-bef3-02204143f21c",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:12.100Z",
+                    "updated_at": "2023-02-24T09:00:12.143Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T22:15:00.000Z",
+            "modified": "2023-02-24T09:00:12.143Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36231"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://rubygems.org/gems/pdf_info"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/affix/CVE-2022-36231"
+                }
+            ],
+            "name": "CVE-2022-36231",
+            "description": "pdf_info 0.5.3 is vulnerable to Command Execution."
+        },
+        {
+            "id": "vulnerability--56d49f09-e05b-50f3-8e77-152b325f7cb0",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "4aa8de68-6757-4d02-a5a4-00e48e7d5f01",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:10.629Z",
+                    "updated_at": "2023-02-24T09:00:11.203Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2021-11-03T00:00:00.000Z",
+            "modified": "2023-02-24T09:00:11.203Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "labels": [
+                "apache",
+                "struts"
+            ],
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "created_by_ref": "identity--80f07246-1c8c-5225-9ac5-fba6d6345f99",
+            "name": "CVE-2017-5638",
+            "description": "The Jakarta Multipart parser in Apache Struts 2 2.3.x before 2.3.32 and 2.5.x before 2.5.10.1 has incorrect exception handling and error-message generation during file-upload attempts, which allows remote attackers to execute arbitrary commands via a crafted Content-Type, Content-Disposition, or Content-Length HTTP header, as exploited in the wild in March 2017 with a Content-Type header containing a #cmd= string."
+        },
+        {
+            "id": "vulnerability--6afbcadc-b626-5cb5-8ab9-7ca5f2f81bf8",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "601e207d-8709-4938-94e7-24c2d794d5ea",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:16.376Z",
+                    "updated_at": "2023-02-24T09:00:16.619Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T20:15:00.000Z",
+            "modified": "2023-02-24T09:00:16.619Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-24317"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "http://sourcecodester.com"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://packetstormsecurity.com/files/170205/Judging-Management-System-1.0-Shell-Upload.html"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "http://judging.com"
+                }
+            ],
+            "name": "CVE-2023-24317",
+            "description": "Judging Management System 1.0 was discovered to contain an arbitrary file upload vulnerability via the component edit_organizer.php."
+        },
+        {
+            "id": "vulnerability--887fa230-3d8b-5de4-a3f2-2d7a27475a93",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "ff96f4c8-1206-4198-a44f-05ab5ec8d635",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:20.023Z",
+                    "updated_at": "2023-02-24T09:00:20.086Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T20:15:00.000Z",
+            "modified": "2023-02-24T09:00:20.086Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://hackerone.com/reports/1631258"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-23917"
+                }
+            ],
+            "name": "CVE-2023-23917",
+            "description": "A prototype pollution vulnerability exists in Rocket.Chat server <5.2.0 that could allow an attacker to a RCE under the admin account. Any user can create their own server in your cloud and become an admin so this vulnerability could affect the cloud infrastructure. This attack vector also may increase the impact of XSS to RCE which is dangerous for self-hosted users as well."
+        },
+        {
+            "id": "vulnerability--c6733860-5c8a-5a79-9b83-72e6dc08a0ad",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "00af3adc-743a-4922-b43e-9323c84dd1ff",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:28.750Z",
+                    "updated_at": "2023-02-24T09:00:29.134Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T20:15:00.000Z",
+            "modified": "2023-02-24T09:00:29.134Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-20011"
+                },
+                {
+                    "source_name": "CISCO",
+                    "url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-capic-csrfv-DMx6KSwV"
+                }
+            ],
+            "name": "CVE-2023-20011",
+            "description": "A vulnerability in the web-based management interface of Cisco Application Policy Infrastructure Controller (APIC) and Cisco Cloud Network Controller, formerly Cisco Cloud APIC, could allow an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack on an affected system. This vulnerability is due to insufficient CSRF protections for the web-based management interface on an affected system. An attacker could exploit this vulnerability by persuading a user of the interface to click a malicious link. A successful exploit could allow the attacker to perform arbitrary actions with the privilege level of the affected user. If the affected user has administrative privileges, these actions could include modifying the system configuration and creating new privileged accounts."
+        },
+        {
+            "id": "vulnerability--24e55144-05df-5ad9-afc3-862d6683dece",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "1a081fe4-9426-4571-a77b-de90224fabac",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:29.844Z",
+                    "updated_at": "2023-02-24T09:00:30.309Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T20:15:00.000Z",
+            "modified": "2023-02-24T09:00:30.309Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0597"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://git.kernel.org/linus/97e3d26b5e5f371b3ee223d94dd123e6c442ba80"
+                }
+            ],
+            "name": "CVE-2023-0597",
+            "description": "A flaw possibility of memory leak in the Linux kernel cpu_entry_area mapping of X86 CPU data to memory was found in the way user can guess location of exception stack(s) or other important data. A local user could use this flaw to get access to some important data with expected location in memory."
+        },
+        {
+            "id": "vulnerability--971dd123-4939-569d-a382-e5ca48a154fb",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "ac74fe08-e53e-4acc-9d73-dd0334e8d716",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:32.075Z",
+                    "updated_at": "2023-02-24T09:00:32.132Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T20:15:00.000Z",
+            "modified": "2023-02-24T09:00:32.132Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0044"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2158081"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://access.redhat.com/security/cve/CVE-2023-0044"
+                }
+            ],
+            "name": "CVE-2023-0044",
+            "description": "If the Quarkus Form Authentication session cookie Path attribute is set to `/` then a cross-site attack may be initiated which might lead to the Information Disclosure. This attack can be prevented with the Quarkus CSRF Prevention feature."
+        },
+        {
+            "id": "vulnerability--4043fa4d-c0f1-59f6-a5e3-413850b7d238",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "c6bfe2ab-f877-43f5-93d5-610af4eb2e0b",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:33.308Z",
+                    "updated_at": "2023-02-24T09:00:33.565Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T20:15:00.000Z",
+            "modified": "2023-02-24T09:00:33.565Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://scomsupport.squaredup.com/hc/en-us/articles/9476419759005-CVE-2022-46786-Stored-Cross-Site-Scripting"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://support.squaredup.com"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-46786"
+                }
+            ],
+            "name": "CVE-2022-46786",
+            "description": "SquaredUp Dashboard Server SCOM edition before 5.7.1 GA allows XSS (issue 2 of 2)."
+        },
+        {
+            "id": "vulnerability--23bf91c9-ba1d-55fc-afe2-afebd258b0fd",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "0ea62495-cc9b-498b-ac06-ee298a4b1141",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:34.946Z",
+                    "updated_at": "2023-02-24T09:00:34.999Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T19:15:00.000Z",
+            "modified": "2023-02-24T09:00:34.999Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.mantisbt.org/bugs/view.php?id=31086"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/mantisbt/mantisbt/security/advisories/GHSA-hf4x-6h87-hm79"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22476"
+                }
+            ],
+            "name": "CVE-2023-22476",
+            "description": "Mantis Bug Tracker (MantisBT) is an open source issue tracker. In versions prior to 2.25.6, due to insufficient access-level checks, any logged-in user allowed to perform Group Actions can access to the _Summary_ field of private Issues (i.e. having Private view status, or belonging to a private Project) via a crafted `bug_arr[]` parameter in *bug_actiongroup_ext.php*. This issue is fixed in version 2.25.6. There are no workarounds."
+        },
+        {
+            "id": "vulnerability--cbc85a6c-dc62-555d-aede-681ea2e85d34",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "bf1ce78b-c0db-4a63-82f2-ce64460a0b42",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:35.856Z",
+                    "updated_at": "2023-02-24T09:00:35.963Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T16:15:00.000Z",
+            "modified": "2023-02-24T09:00:35.963Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://patchstack.com/database/vulnerability/chatbot/wordpress-chatbot-plugin-4-2-8-cross-site-request-forgery-csrf?_s_id=cve"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-24415"
+                }
+            ],
+            "name": "CVE-2023-24415",
+            "description": "Cross-Site Request Forgery (CSRF) vulnerability in QuantumCloud ChatBot ? plugin <= 4.2.8 versions."
+        },
+        {
+            "id": "vulnerability--eb803ad2-aa14-5852-b8e1-957c92d1e6b8",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "b8cecd1f-973e-4c24-bec5-62cf95033757",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:39.031Z",
+                    "updated_at": "2023-02-24T09:00:39.091Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T16:15:00.000Z",
+            "modified": "2023-02-24T09:00:39.091Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?id.221680"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?ctiid.221680"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0987"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/1MurasaKi/PizzeXSS_Report/blob/main/Online%20Pizza%20Ordering%20System/README.md"
+                }
+            ],
+            "name": "CVE-2023-0987",
+            "description": "A vulnerability classified as problematic was found in SourceCodester Online Pizza Ordering System 1.0. This vulnerability affects unknown code of the file index.php?page=checkout. The manipulation leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-221680."
+        },
+        {
+            "id": "vulnerability--23c97da3-376c-5757-8324-0324360a976f",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "18b380b6-263e-402a-8744-09cf5fda60b2",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:38.963Z",
+                    "updated_at": "2023-02-24T09:00:39.008Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T16:15:00.000Z",
+            "modified": "2023-02-24T09:00:39.008Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?ctiid.221681"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/1MurasaKi/PizzaCSRF_report/tree/main/vender/Online%20Pizza%20Ordering%20System"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0988"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?id.221681"
+                }
+            ],
+            "name": "CVE-2023-0988",
+            "description": "A vulnerability, which was classified as problematic, has been found in SourceCodester Online Pizza Ordering System 1.0. This issue affects some unknown processing of the file admin/ajax.php?action=save_user. The manipulation leads to cross-site request forgery. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-221681 was assigned to this vulnerability."
+        },
+        {
+            "id": "vulnerability--2126c4fa-f436-5b57-a4c4-59f2b8a6f775",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "79e46903-6b0d-47c2-b9df-df3b847abff7",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:40.399Z",
+                    "updated_at": "2023-02-24T09:00:40.456Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T16:15:00.000Z",
+            "modified": "2023-02-24T09:00:40.456Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0986"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?id.221679"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?ctiid.221679"
+                }
+            ],
+            "name": "CVE-2023-0986",
+            "description": "A vulnerability classified as critical has been found in SourceCodester Sales Tracker Management System 1.0. This affects an unknown part of the file admin/?page=user/manage_user of the component Edit User. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The associated identifier of this vulnerability is VDB-221679."
+        },
+        {
+            "id": "vulnerability--c3025ee7-496a-5b65-9c11-650012208058",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "fe85e4a1-7f9a-4c33-ab96-09914600643a",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:40.408Z",
+                    "updated_at": "2023-02-24T09:00:40.486Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T16:15:00.000Z",
+            "modified": "2023-02-24T09:00:40.486Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48344"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.jetbrains.com/privacy-security/issues-fixed/"
+                }
+            ],
+            "name": "CVE-2022-48344",
+            "description": "In JetBrains TeamCity before 2022.10.2 there was an XSS vulnerability in the group creation process."
+        },
+        {
+            "id": "vulnerability--8f5dca98-cfe4-5d72-8177-02f2cb9c50c4",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "ed128f13-164a-497d-87c9-c10580f1c7dc",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:40.469Z",
+                    "updated_at": "2023-02-24T09:00:40.800Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T16:15:00.000Z",
+            "modified": "2023-02-24T09:00:40.800Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48343"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.jetbrains.com/privacy-security/issues-fixed/"
+                }
+            ],
+            "name": "CVE-2022-48343",
+            "description": "In JetBrains TeamCity before 2022.10.2 there was an XSS vulnerability in the user creation process."
+        },
+        {
+            "id": "vulnerability--cbe55897-829e-5dee-b2a9-4e0b79d7ef30",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "f5c09cbc-aa33-4665-acf4-916d8af0c5cf",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:41.650Z",
+                    "updated_at": "2023-02-24T09:00:41.684Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T15:15:00.000Z",
+            "modified": "2023-02-24T09:00:41.684Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-24384"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://patchstack.com/database/vulnerability/organization-chart/wordpress-wpdevart-organization-chart-plugin-1-4-4-cross-site-request-forgery-csrf?_s_id=cve"
+                }
+            ],
+            "name": "CVE-2023-24384",
+            "description": "Cross-Site Request Forgery (CSRF) vulnerability in WpDevArt Organization chart <= 1.4.4 versions."
+        },
+        {
+            "id": "vulnerability--545d2593-2f93-59b8-9419-c8299b3536cb",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "edfab3d8-5554-44d4-8d9a-f496c26312ab",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:41.203Z",
+                    "updated_at": "2023-02-24T09:00:41.562Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T16:15:00.000Z",
+            "modified": "2023-02-24T09:00:41.562Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.jetbrains.com/privacy-security/issues-fixed/"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48342"
+                }
+            ],
+            "name": "CVE-2022-48342",
+            "description": "In JetBrains TeamCity before 2022.10.2 jVMTI was enabled by default on agents."
+        },
+        {
+            "id": "vulnerability--ddce20f6-3482-5e56-8a36-3f1bf884dbee",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "1ca3a6eb-e3d7-4055-89ba-c1fbf6d72231",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:42.003Z",
+                    "updated_at": "2023-02-24T09:00:42.323Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T15:15:00.000Z",
+            "modified": "2023-02-24T09:00:42.323Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-23659"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://patchstack.com/database/vulnerability/mainwp-piwik-extension/wordpress-mainwp-matomo-extension-plugin-4-0-4-csrf-leading-to-plugin-settings-change-vulnerability?_s_id=cve"
+                }
+            ],
+            "name": "CVE-2023-23659",
+            "description": "Cross-Site Request Forgery (CSRF) vulnerability in MainWP Matomo Extension <= 4.0.4 versions."
+        },
+        {
+            "id": "vulnerability--1b3cba07-92e8-5ac7-b41e-e55286b9d1b9",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "7e9f1639-743c-4c02-8f99-dc7c1356a43c",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:42.734Z",
+                    "updated_at": "2023-02-24T09:00:43.343Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T15:15:00.000Z",
+            "modified": "2023-02-24T09:00:43.343Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0869"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/OpenNMS/opennms/pull/5734"
+                }
+            ],
+            "name": "CVE-2023-0869",
+            "description": "Cross-site scripting in outage/list.htm in multiple versions of OpenNMS Meridian and Horizon allows an attacker access to confidential session information."
+        },
+        {
+            "id": "vulnerability--2c8986c8-1621-573c-91e9-12a194d750b4",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "fb0c5d25-a3ad-4860-bec5-d058e89d3fb7",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:43.541Z",
+                    "updated_at": "2023-02-24T09:00:44.123Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T15:15:00.000Z",
+            "modified": "2023-02-24T09:00:44.123Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/OpenNMS/opennms/pull/5765"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0867"
+                }
+            ],
+            "name": "CVE-2023-0867",
+            "description": "Multiple stored and reflected cross-site scripting vulnerabilities in webapp jsp pages in multiple versions of OpenNMS Meridian and Horizon could allow an attacker access to confidential session information."
+        },
+        {
+            "id": "vulnerability--45151d96-8ed7-5869-89e2-c8e66834bdef",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "b5c7a975-9a10-4598-b09b-e377c5975184",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:44.962Z",
+                    "updated_at": "2023-02-24T09:00:45.255Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T12:15:00.000Z",
+            "modified": "2023-02-24T09:00:45.255Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?id.221677"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0982"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?ctiid.221677"
+                }
+            ],
+            "name": "CVE-2023-0982",
+            "description": "A vulnerability was found in SourceCodester Yoga Class Registration System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Add Class Entry. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The identifier VDB-221677 was assigned to this vulnerability."
+        },
+        {
+            "id": "vulnerability--c2e34123-0b75-5dd9-a9d3-fd7a308edf59",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "efa53269-bbe1-445d-a9c4-08bbdb85eb34",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:46.159Z",
+                    "updated_at": "2023-02-24T09:00:46.538Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T12:15:00.000Z",
+            "modified": "2023-02-24T09:00:46.538Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?id.221675"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0980"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?ctiid.221675"
+                }
+            ],
+            "name": "CVE-2023-0980",
+            "description": "A vulnerability was found in SourceCodester Yoga Class Registration System 1.0 and classified as critical. This issue affects some unknown processing of the file admin/registrations/update_status.php of the component Status Update Handler. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The associated identifier of this vulnerability is VDB-221675."
+        },
+        {
+            "id": "vulnerability--82957c66-f79b-5105-9c30-6c4f8680043a",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "1d564b34-e31d-4c39-bc01-d95770b19a72",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:45.941Z",
+                    "updated_at": "2023-02-24T09:00:46.012Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T12:15:00.000Z",
+            "modified": "2023-02-24T09:00:46.012Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0981"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?id.221676"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://vuldb.com/?ctiid.221676"
+                }
+            ],
+            "name": "CVE-2023-0981",
+            "description": "A vulnerability was found in SourceCodester Yoga Class Registration System 1.0. It has been classified as critical. Affected is an unknown function of the component Delete User. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-221676."
+        },
+        {
+            "id": "vulnerability--1800aceb-a411-5ffc-9d96-2c2a7fe6a32b",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "07ae594d-e0ee-469e-a5e6-a5e44e6e9487",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:46.969Z",
+                    "updated_at": "2023-02-24T09:00:47.019Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T12:15:00.000Z",
+            "modified": "2023-02-24T09:00:47.019Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-2504"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.usom.gov.tr/bildirim/tr-23-0107"
+                }
+            ],
+            "name": "CVE-2022-2504",
+            "description": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in SDD Computer Software SDD-Baro allows SQL Injection.This issue affects SDD-Baro: before 2.8.432."
+        },
+        {
+            "id": "vulnerability--b97cbdde-f697-581b-8b36-7d01e668dd63",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "5df90eba-1161-460d-b4b3-484f7745b07f",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:47.445Z",
+                    "updated_at": "2023-02-24T09:00:47.510Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T09:15:00.000Z",
+            "modified": "2023-02-24T09:00:47.510Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25621"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://sling.apache.org/news.html"
+                }
+            ],
+            "name": "CVE-2023-25621",
+            "description": "Privilege Escalation vulnerability in Apache Software Foundation Apache Sling. Any content author is able to create i18n dictionaries in the repository in a location the author has write access to. As these translations are used across the whole product, it allows an author to change any text or dialog in the product. For example an attacker might fool someone by changing the text on a delete button to \"Info\". This issue affects the i18n module of Apache Sling up to version 2.5.18. Version 2.6.2 and higher limit by default i18m dictionaries to certain paths in the repository (/libs and /apps). Users of the module are advised to update to version 2.6.2 or higher, check the configuration for resource loading and then adjust the access permissions for the configured path accordingly."
+        },
+        {
+            "id": "vulnerability--0942a150-ae2d-569c-b2d0-308b47c67f1a",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "190d1ddc-18e3-41db-8638-e8c5d909945e",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:47.967Z",
+                    "updated_at": "2023-02-24T09:00:48.084Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T08:15:00.000Z",
+            "modified": "2023-02-24T09:00:48.084Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://www.usom.gov.tr/bildirim/tr-23-0103"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0939"
+                }
+            ],
+            "name": "CVE-2023-0939",
+            "description": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in NTN Information Technologies Online Services Software allows SQL Injection.This issue affects Online Services Software: before 1.17."
+        },
+        {
+            "id": "vulnerability--7fd5a0e4-8f7d-5e12-9862-766f6683352b",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "130c5afd-f0f1-43e7-9f8d-b3b2da5c8c43",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:48.140Z",
+                    "updated_at": "2023-02-24T09:00:48.170Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T06:15:00.000Z",
+            "modified": "2023-02-24T09:00:48.170Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26462"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/238544"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://thingsboard.io/docs/reference/releases/"
+                }
+            ],
+            "name": "CVE-2023-26462",
+            "description": "ThingsBoard 3.4.1 could allow a remote attacker to gain elevated privileges because hard-coded service credentials (usable for privilege escalation) are stored in an insecure format. (To read this stored data, the attacker needs access to the application server or its source code.)"
+        },
+        {
+            "id": "vulnerability--7db27d88-0f94-5d90-9634-c60c65c519bc",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "c0fc0669-b9f0-4e64-b112-5e72b7fa45e1",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:48.473Z",
+                    "updated_at": "2023-02-24T09:00:48.584Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T06:15:00.000Z",
+            "modified": "2023-02-24T09:00:48.584Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://thingsboard.io/docs/reference/releases/"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/238543"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48341"
+                }
+            ],
+            "name": "CVE-2022-48341",
+            "description": "ThingsBoard 3.4.1 could allow a remote authenticated attacker to achieve Vertical Privilege Escalation. A Tenant Administrator can obtain System Administrator dashboard access by modifying the scope via the scopes parameter."
+        },
+        {
+            "id": "vulnerability--df4e11ad-105b-50d8-9233-3332b4d0e73e",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "b6685829-cb46-4536-a01a-ba6defea1aaf",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:48.612Z",
+                    "updated_at": "2023-02-24T09:00:49.024Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-23T00:15:00.000Z",
+            "modified": "2023-02-24T09:00:49.024Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26303"
+                },
+                {
+                    "source_name": "MISC",
+                    "url": "https://github.com/executablebooks/markdown-it-py/commit/ae03c6107dfa18e648f6fdd1280f5b89092d5d49"
+                }
+            ],
+            "name": "CVE-2023-26303",
+            "description": "Denial of service could be caused to markdown-it-py, before v2.2.0, if an attacker was allowed to force null assertions with specially crafted input."
+        },
+        {
+            "id": "vulnerability--cbe9f7a8-6f43-579f-83de-f8e45b623845",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "691d17c3-097e-4db8-8162-ab1a34c22352",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:49.660Z",
+                    "updated_at": "2023-02-24T09:00:49.733Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:49.733Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0886"
+                }
+            ],
+            "name": "CVE-2023-0886",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2022-3411. Reason: This candidate is a reservation duplicate of CVE-2022-3411. Notes: All CVE users should reference CVE-2022-3411 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage."
+        },
+        {
+            "id": "vulnerability--12a8a132-4077-55ac-ab01-7922e18b217c",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "e1fc8555-d3a3-4142-8db9-9e62a9cd1fbf",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:49.666Z",
+                    "updated_at": "2023-02-24T09:00:49.753Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:49.753Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0885"
+                }
+            ],
+            "name": "CVE-2023-0885",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2023-0518. Reason: This candidate is a reservation duplicate of CVE-2023-0518. Notes: All CVE users should reference CVE-2023-0518 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage."
+        },
+        {
+            "id": "vulnerability--ee86c051-64c0-5123-aaf0-cbc08ea16399",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "059ec616-d2ef-4763-aec3-0ce75da8ac32",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:50.117Z",
+                    "updated_at": "2023-02-24T09:00:50.507Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:50.507Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0884"
+                }
+            ],
+            "name": "CVE-2023-0884",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2022-3759. Reason: This candidate is a reservation duplicate of CVE-2022-3759. Notes: All CVE users should reference CVE-2022-3759 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage."
+        },
+        {
+            "id": "vulnerability--13a994fd-e0f6-520f-b97d-870893eeedbd",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "1955afb0-a7a7-46f4-96f9-251465061e01",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:50.668Z",
+                    "updated_at": "2023-02-24T09:00:51.188Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:51.188Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "MISC",
+                    "url": "https://medium.com/@ahmedmehsania/cve-2022-48149-80e4139aa503"
+                },
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-48149"
+                }
+            ],
+            "name": "CVE-2022-48149",
+            "description": "Online Student Admission System in PHP Free Source Code 1.0 was discovered to contain a SQL injection vulnerability via the username parameter."
+        },
+        {
+            "id": "vulnerability--260ff8b0-b002-5402-9e66-727995562fed",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "c63c5e04-0242-4e77-9d81-369f3731d079",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:50.609Z",
+                    "updated_at": "2023-02-24T09:00:51.187Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:51.187Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1069"
+                }
+            ],
+            "name": "CVE-2017-1069",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--c4486b11-fee9-5ee6-aa2f-f95487eeee46",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "6a6935b4-4ffa-4eb7-9334-256c237130fd",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:51.296Z",
+                    "updated_at": "2023-02-24T09:00:51.363Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:51.363Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1068"
+                }
+            ],
+            "name": "CVE-2017-1068",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--81afe5ba-c119-5fb2-b5f3-2dcfd5f8f6ed",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "b1ea6211-bb30-45f1-a4d6-0b662dd13e10",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:51.431Z",
+                    "updated_at": "2023-02-24T09:00:51.686Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:51.686Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1067"
+                }
+            ],
+            "name": "CVE-2017-1067",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--7c2b8cac-27ea-56c7-98ec-b51eeeaa6550",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "eaaf7634-0b06-486f-944e-d9b0e9ab13cc",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:52.021Z",
+                    "updated_at": "2023-02-24T09:00:52.064Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:52.064Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1066"
+                }
+            ],
+            "name": "CVE-2017-1066",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--94764aef-297c-59e8-ba8d-576e35af39eb",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "dafb81fd-425d-4dc5-b40b-1088584618f2",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:52.420Z",
+                    "updated_at": "2023-02-24T09:00:52.642Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:52.642Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1065"
+                }
+            ],
+            "name": "CVE-2017-1065",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--a02658ff-b1ca-5a97-a056-911af819f6f3",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "39a50f1b-e8ba-4679-8cef-8d9983f4beef",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:52.765Z",
+                    "updated_at": "2023-02-24T09:00:52.936Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:52.936Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1064"
+                }
+            ],
+            "name": "CVE-2017-1064",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--36e8a477-0924-5f5e-a149-17d5e05316c6",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "2fc7f211-38c9-4b70-ab91-ffb607db940f",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:53.576Z",
+                    "updated_at": "2023-02-24T09:00:53.618Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:53.618Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1062"
+                }
+            ],
+            "name": "CVE-2017-1062",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--cae38c5d-8e41-5e42-896d-2035b6729c63",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "033a6637-9ce6-4793-8d15-5b5695f7c069",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:53.098Z",
+                    "updated_at": "2023-02-24T09:00:53.148Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:53.148Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1063"
+                }
+            ],
+            "name": "CVE-2017-1063",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--9293841e-06b4-502b-a7a5-0060cc70a9cd",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "e50f7542-1bd4-4551-b5e5-1668e498e0be",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:54.087Z",
+                    "updated_at": "2023-02-24T09:00:54.127Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:54.127Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1060"
+                }
+            ],
+            "name": "CVE-2017-1060",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--c9a4a94c-d010-517f-be46-7a8985590ac2",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "60f2567b-7fa8-4a31-8634-b38cabdf4e0d",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:53.971Z",
+                    "updated_at": "2023-02-24T09:00:54.044Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:54.044Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1061"
+                }
+            ],
+            "name": "CVE-2017-1061",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--f69e8374-ce73-5076-b25d-4efe77e22c18",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9d297e09-c2cf-43f5-a83d-d7829d836822",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:54.134Z",
+                    "updated_at": "2023-02-24T09:00:54.921Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:54.921Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1059"
+                }
+            ],
+            "name": "CVE-2017-1059",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--ec59fb8d-5fc5-5c74-81cb-9398a6dcb2b9",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "edd7ab1e-945d-4864-98d5-085f0f88e786",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:54.969Z",
+                    "updated_at": "2023-02-24T09:00:55.054Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:55.054Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1058"
+                }
+            ],
+            "name": "CVE-2017-1058",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--f74d638d-11eb-5c7d-aae2-846d771d3bc9",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "8a413e61-592a-4ca5-a3c0-3dbaa93d202b",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:55.082Z",
+                    "updated_at": "2023-02-24T09:00:55.352Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:55.352Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1057"
+                }
+            ],
+            "name": "CVE-2017-1057",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--78d2eeba-368b-510e-a4a7-030a9e47c6ef",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9a8644cc-dde1-4f5a-add4-c0a7b6fc2d40",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:55.504Z",
+                    "updated_at": "2023-02-24T09:00:55.934Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:55.934Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1055"
+                }
+            ],
+            "name": "CVE-2017-1055",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--62f9810c-e4c1-54c1-bf53-77da9436d4a3",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "e83ffe5a-2d11-46ce-af25-e10eeacd10f0",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:55.417Z",
+                    "updated_at": "2023-02-24T09:00:55.932Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:55.932Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1056"
+                }
+            ],
+            "name": "CVE-2017-1056",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--a9ae1f3d-a2e0-588f-9ffc-e125d0218c80",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "6a80aea2-45bd-4fdc-bee8-a1ac8fa853b5",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:56.085Z",
+                    "updated_at": "2023-02-24T09:00:56.563Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:56.563Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1054"
+                }
+            ],
+            "name": "CVE-2017-1054",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--f8198ceb-7420-5541-98f6-05b1cfeb455c",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "afb5b023-2def-4d47-8007-28730cd13a41",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:56.619Z",
+                    "updated_at": "2023-02-24T09:00:56.754Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:56.754Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1052"
+                }
+            ],
+            "name": "CVE-2017-1052",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--78834ab7-6596-52e7-87e0-2aaa390da0cf",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "b0a8f32d-bd1b-4263-9263-b6ff86ac11c4",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:56.590Z",
+                    "updated_at": "2023-02-24T09:00:56.743Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:56.743Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1053"
+                }
+            ],
+            "name": "CVE-2017-1053",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--72b5a582-b590-5112-b8cd-15de7e6c12ee",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "22253e11-e7d3-4ab5-8b4f-252c0b0df4a8",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:56.960Z",
+                    "updated_at": "2023-02-24T09:00:57.475Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:57.475Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1051"
+                }
+            ],
+            "name": "CVE-2017-1051",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--e1db4021-43ab-5a03-be67-29ca5e1aa8f2",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "691cf6e2-75d3-4a14-b29d-b6f4f0349112",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:58.095Z",
+                    "updated_at": "2023-02-24T09:00:58.159Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:58.159Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1049"
+                }
+            ],
+            "name": "CVE-2017-1049",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--b5931ded-8123-576f-ae25-bb599cfcec55",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "293bb272-e675-44bc-b78c-7006768b4866",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:57.487Z",
+                    "updated_at": "2023-02-24T09:00:57.621Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:57.621Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1050"
+                }
+            ],
+            "name": "CVE-2017-1050",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--3bdad0f7-890a-5ecf-9fab-79ca0b5a321e",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "72c1e65f-d74a-4487-b3f0-5238d16fe65d",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:58.333Z",
+                    "updated_at": "2023-02-24T09:00:58.517Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:58.517Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1048"
+                }
+            ],
+            "name": "CVE-2017-1048",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--11da4b2c-1b16-5345-8330-dca85ca0f81c",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "bc0c9b13-9545-4751-8176-857fa0d38acf",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:58.564Z",
+                    "updated_at": "2023-02-24T09:00:58.733Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:58.733Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1047"
+                }
+            ],
+            "name": "CVE-2017-1047",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--98f3e5da-bd61-58f2-adac-a56320086a3b",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "e9aeae6a-4389-47a0-b4bd-476163a31ae8",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:58.762Z",
+                    "updated_at": "2023-02-24T09:00:58.972Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:58.972Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1046"
+                }
+            ],
+            "name": "CVE-2017-1046",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--3222a1da-b019-5e64-b281-099961efcc06",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "7686d00e-0ea0-4d49-8fcb-011777a21548",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:57.490Z",
+                    "updated_at": "2023-02-24T09:00:57.621Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2021-11-03T00:00:00.000Z",
+            "modified": "2023-02-24T09:00:57.621Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "labels": [
+                "cisco",
+                "ios and ios xe"
+            ],
+            "object_marking_refs": [
+                "marking-definition--613f2e26-407d-48c7-9eca-b8e91df99dc9"
+            ],
+            "created_by_ref": "identity--80f07246-1c8c-5225-9ac5-fba6d6345f99",
+            "name": "CVE-2018-0171",
+            "description": "A vulnerability in the Smart Install feature of Cisco IOS Software and Cisco IOS XE Software could allow an unauthenticated, remote attacker to trigger a reload of an affected device, resulting in a denial of service (DoS) condition, or to execute arbitrary code on an affected device. The vulnerability is due to improper validation of packet data. An attacker could exploit this vulnerability by sending a crafted Smart Install message to an affected device on TCP port 4786. A successful exploit could allow the attacker to cause a buffer overflow on the affected device, which could have the following impacts: Triggering a reload of the device, Allowing the attacker to execute arbitrary code on the device, Causing an indefinite loop on the affected device that triggers a watchdog crash. Cisco Bug IDs: CSCvg76186."
+        },
+        {
+            "id": "vulnerability--951dbdfc-22d6-5e93-aa23-e87b8d9c2fa6",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "f4501747-3fa4-422c-aeed-59637db82f11",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:59.206Z",
+                    "updated_at": "2023-02-24T09:00:59.356Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:59.356Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1045"
+                }
+            ],
+            "name": "CVE-2017-1045",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--dc0bf363-b060-59f1-a9af-31b17b35e134",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "482ebc7d-3203-4118-bb9e-457622025237",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:59.521Z",
+                    "updated_at": "2023-02-24T09:00:59.820Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:00:59.820Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1044"
+                }
+            ],
+            "name": "CVE-2017-1044",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--0611cf62-7ac1-5218-8382-cb970fd44843",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "dda5efc4-99e6-456a-be7f-53ae83dd08f2",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:00:59.832Z",
+                    "updated_at": "2023-02-24T09:01:00.135Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:00.135Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1043"
+                }
+            ],
+            "name": "CVE-2017-1043",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--3b6cede5-c09d-5f63-8e28-b4414cbacb8a",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "7671d125-c055-4335-871f-0fa88237eebc",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:00.485Z",
+                    "updated_at": "2023-02-24T09:01:00.593Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:00.593Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1041"
+                }
+            ],
+            "name": "CVE-2017-1041",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--2b9a1d14-ce12-5954-ae53-779574506bbb",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "797bb383-bd10-4e9c-b960-6bb4f4856c88",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:00.126Z",
+                    "updated_at": "2023-02-24T09:01:00.481Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:00.481Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1042"
+                }
+            ],
+            "name": "CVE-2017-1042",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--0505c26c-3ab6-528c-8d40-2d1665746dbc",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "45a7166e-b134-4b2b-8263-4aa393c2b87d",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:00.807Z",
+                    "updated_at": "2023-02-24T09:01:00.977Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:00.977Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1040"
+                }
+            ],
+            "name": "CVE-2017-1040",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--58746e83-4c51-55e5-9d45-5b5b74bd5b28",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "31464e83-2a9b-4d10-b63f-427f55b56622",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:01.325Z",
+                    "updated_at": "2023-02-24T09:01:01.369Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:01.369Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1039"
+                }
+            ],
+            "name": "CVE-2017-1039",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--2ab95daa-fc0c-5fdd-8614-c0e1f25129e7",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "19309bf8-4c1c-47d5-9fcd-4dffef81adc3",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:01.489Z",
+                    "updated_at": "2023-02-24T09:01:01.556Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:01.556Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1038"
+                }
+            ],
+            "name": "CVE-2017-1038",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--9fc152d3-520c-594d-9f39-698e6a49a7da",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "f6d0fc85-b369-4d3b-a5af-1b6d57371db0",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:02.118Z",
+                    "updated_at": "2023-02-24T09:01:02.424Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:02.424Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1036"
+                }
+            ],
+            "name": "CVE-2017-1036",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--ab10fadf-9f15-5665-b435-354d135ad137",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9ba68728-3e53-44bf-b944-b226b93dd78c",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:01.772Z",
+                    "updated_at": "2023-02-24T09:01:02.184Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:02.184Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1037"
+                }
+            ],
+            "name": "CVE-2017-1037",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--3b97cba3-d483-557e-8c68-6aa2cbdfe93e",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "ff07c1ed-0a9c-46d2-98fe-73aec263a35b",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:02.884Z",
+                    "updated_at": "2023-02-24T09:01:02.953Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:02.953Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1034"
+                }
+            ],
+            "name": "CVE-2017-1034",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--5a832211-abf4-5041-822d-4567aa04784a",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "d84a4f22-f598-41bf-b147-511aff332815",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:02.504Z",
+                    "updated_at": "2023-02-24T09:01:02.541Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:02.541Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1035"
+                }
+            ],
+            "name": "CVE-2017-1035",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--d99167c7-3e25-5f75-977e-d7cf4341c77a",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "a05f1248-c7a9-47a2-931a-db7c4832e773",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:03.025Z",
+                    "updated_at": "2023-02-24T09:01:03.412Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:03.412Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1033"
+                }
+            ],
+            "name": "CVE-2017-1033",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--19c1f670-89e4-5b60-b813-a9205578fbf6",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "52e70d64-9cf0-4cd8-a2a3-794bce26049b",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:03.428Z",
+                    "updated_at": "2023-02-24T09:01:03.470Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:03.470Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1032"
+                }
+            ],
+            "name": "CVE-2017-1032",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--d886bf3c-7a8f-54bc-a94d-65febea9366d",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "7b8e2ad5-e40d-4f68-8349-99a500c1c553",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:03.548Z",
+                    "updated_at": "2023-02-24T09:01:04.073Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:04.073Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1031"
+                }
+            ],
+            "name": "CVE-2017-1031",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--196f0b26-6d67-57ef-af5e-5ad8eb7434e6",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "9d6034ce-2635-4102-b5ae-84c0a99a3fd9",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:04.110Z",
+                    "updated_at": "2023-02-24T09:01:04.303Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:04.303Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1030"
+                }
+            ],
+            "name": "CVE-2017-1030",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--25d3b295-5f2e-526d-ada7-97d571db3309",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "fc848838-a8f0-48d2-847d-1950c5c530c3",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:04.229Z",
+                    "updated_at": "2023-02-24T09:01:04.302Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:04.302Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1029"
+                }
+            ],
+            "name": "CVE-2017-1029",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--a3cbeda9-bc76-58ca-90e9-5b29d9591247",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "4ed2d099-2df3-4def-bb1a-7edc39c8d6b0",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:04.956Z",
+                    "updated_at": "2023-02-24T09:01:05.041Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:05.041Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1028"
+                }
+            ],
+            "name": "CVE-2017-1028",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--8923a231-c884-5279-a74b-70faaf5e498a",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "1c0fb4be-b8ab-441a-bd43-af7cc43c351a",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:05.060Z",
+                    "updated_at": "2023-02-24T09:01:05.570Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:05.570Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1027"
+                }
+            ],
+            "name": "CVE-2017-1027",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--c8365eae-796f-5e23-8f7c-70bdc6427ffe",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "6263c21a-85d1-4a61-b79b-60e509728868",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:05.666Z",
+                    "updated_at": "2023-02-24T09:01:05.767Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:05.767Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1026"
+                }
+            ],
+            "name": "CVE-2017-1026",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--6876d9e6-d9c8-51e4-a3a8-e53ba76307e3",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "2ce353fa-e4d7-43eb-9517-582272d9a716",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:05.840Z",
+                    "updated_at": "2023-02-24T09:01:06.340Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:06.340Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1025"
+                }
+            ],
+            "name": "CVE-2017-1025",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--6653aa67-2688-54ac-a73d-259da17bafa2",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "8a7cb414-475b-4ce9-9b6e-56cd68434ce8",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:06.419Z",
+                    "updated_at": "2023-02-24T09:01:06.500Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:06.500Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1024"
+                }
+            ],
+            "name": "CVE-2017-1024",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--de640f0e-4a84-5cb3-a685-27d885bfc4e6",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "976c9d6b-edc4-4866-b40b-12f96cc5ea71",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:07.074Z",
+                    "updated_at": "2023-02-24T09:01:07.350Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:07.350Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1022"
+                }
+            ],
+            "name": "CVE-2017-1022",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        },
+        {
+            "id": "vulnerability--fb1d5d15-c831-585e-8d18-38ba4862cbef",
+            "spec_version": "2.1",
+            "type": "vulnerability",
+            "extensions": {
+                "extension-definition--ea279b3e-5c71-4632-ac08-831c66a786ba": {
+                    "extension_type": "property-extension",
+                    "id": "56ba4afe-896e-47d6-a61f-3c0cb60d2499",
+                    "type": "Vulnerability",
+                    "created_at": "2023-02-24T09:01:06.576Z",
+                    "updated_at": "2023-02-24T09:01:06.766Z",
+                    "is_inferred": false,
+                    "creator_ids": [
+                        "88ec0c6a-13ce-5e39-b486-354fe4a7084f"
+                    ]
+                }
+            },
+            "created": "2023-02-22T23:15:00.000Z",
+            "modified": "2023-02-24T09:01:06.766Z",
+            "revoked": false,
+            "confidence": 15,
+            "lang": "en",
+            "created_by_ref": "identity--f11b0831-e7e6-5214-9431-ccf054e53e94",
+            "external_references": [
+                {
+                    "source_name": "NIST NVD",
+                    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-1023"
+                }
+            ],
+            "name": "CVE-2017-1023",
+            "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017. Notes: none."
+        }
+    ]
+}
